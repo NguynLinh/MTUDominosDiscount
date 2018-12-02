@@ -1,1 +1,1 @@
-web: gunicorn MTUDD:app
+web: py MTUDD.py
