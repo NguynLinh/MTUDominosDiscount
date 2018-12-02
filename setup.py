@@ -1,1 +1,1 @@
-python get-pip.py
+py MTUDD.py
